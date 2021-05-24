@@ -46,6 +46,6 @@ Virtual Reality Design of a  Car on a Bump  Using Simulink 3D Animation, this pr
 ---
 
 
-![Demo_Video](slide-images/Video.mp4)
+![Demo_Video](slide-images/Video.gif)
 
 
